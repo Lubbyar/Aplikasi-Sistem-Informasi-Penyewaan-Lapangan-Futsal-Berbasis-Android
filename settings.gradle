@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "TubesLubby"
+rootProject.name='Guitar Log'
